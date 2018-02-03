@@ -1,0 +1,7 @@
+kscreenshot 1:
+
+creating the classifier using scikit learn. http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
+
+screenshot 2:
+
+testing the classifier on test set.

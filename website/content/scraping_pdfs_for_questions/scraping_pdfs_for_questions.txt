@@ -1,0 +1,2 @@
+pdftest.py is used to extract all questions from the pdfs. This is done using 'pdfminer'.
+The question extracter is a simple self-written function to just have a look at some questions. Better results will probably be achieved with NLTK.

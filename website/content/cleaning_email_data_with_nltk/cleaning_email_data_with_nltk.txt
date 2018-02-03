@@ -1,0 +1,13 @@
+oscreenshot: 1
+
+sample of one entry of excel
+category and the text email
+
+
+screenshot: 2
+
+applying tokenize from nltk (extracting sentences)
+
+screenshot: 3
+
+filtering questions out of all the sentences

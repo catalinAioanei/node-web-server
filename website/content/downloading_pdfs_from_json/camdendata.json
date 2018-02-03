@@ -1,0 +1,576 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "j7mk-4ya8",
+      "name" : "Camden Freedom Of Information Responses",
+      "attribution" : "London Borough Of Camden Council",
+      "attributionLink" : "https://www.camden.gov.uk",
+      "averageRating" : 0,
+      "category" : "Your Council",
+      "createdAt" : 1503398773,
+      "description" : "The Council's Freedom of Information Act and Environmental Information Regulations responses, from August 2017.",
+      "displayType" : "table",
+      "downloadCount" : 140,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "indexUpdatedAt" : 1510246390,
+      "licenseId" : "UK_OGLV3.0",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 402394,
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1510246383,
+      "publicationGroup" : 193243,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1510246381,
+      "rowsUpdatedBy" : "9r9r-zy4p",
+      "tableId" : 252407,
+      "totalTimesRated" : 0,
+      "viewCount" : 1377,
+      "viewLastModified" : 1510246383,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 3946719,
+        "name" : "Reference Number",
+        "dataTypeName" : "text",
+        "fieldName" : "reference_number",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1756175,
+        "width" : 140,
+        "cachedContents" : {
+          "largest" : "FS0695139",
+          "non_null" : 149,
+          "null" : 0,
+          "top" : [ {
+            "item" : "21028274",
+            "count" : 20
+          }, {
+            "item" : "21051937",
+            "count" : 19
+          }, {
+            "item" : "21066958",
+            "count" : 18
+          }, {
+            "item" : "FOI0036",
+            "count" : 17
+          }, {
+            "item" : "FOI0020",
+            "count" : 16
+          }, {
+            "item" : "21069016",
+            "count" : 15
+          }, {
+            "item" : "FOI0005",
+            "count" : 14
+          }, {
+            "item" : "FOI0027",
+            "count" : 13
+          }, {
+            "item" : "FOI0038",
+            "count" : 12
+          }, {
+            "item" : "FOI10073",
+            "count" : 11
+          }, {
+            "item" : "21067131",
+            "count" : 10
+          }, {
+            "item" : "21062196",
+            "count" : 9
+          }, {
+            "item" : "FOI00012",
+            "count" : 8
+          }, {
+            "item" : "21055643",
+            "count" : 7
+          }, {
+            "item" : "FOI0001",
+            "count" : 6
+          }, {
+            "item" : "FOI0003",
+            "count" : 5
+          }, {
+            "item" : "FOI0041",
+            "count" : 4
+          }, {
+            "item" : "FOI0044",
+            "count" : 3
+          }, {
+            "item" : "FOI0039",
+            "count" : 2
+          }, {
+            "item" : "FOI10051",
+            "count" : 1
+          } ],
+          "smallest" : "20995251"
+        },
+        "format" : {
+          "displayStyle" : "plain",
+          "align" : "left"
+        }
+      }, {
+        "id" : 3946720,
+        "name" : "Title Of Request",
+        "dataTypeName" : "text",
+        "fieldName" : "title_of_request",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 1756176,
+        "width" : 299,
+        "cachedContents" : {
+          "largest" : "Yellow Box Junction PCNs",
+          "non_null" : 149,
+          "null" : 0,
+          "top" : [ {
+            "item" : "Parking Issues",
+            "count" : 20
+          }, {
+            "item" : "Business Rates",
+            "count" : 19
+          }, {
+            "item" : "Parking appeals",
+            "count" : 18
+          }, {
+            "item" : "IT Service",
+            "count" : 17
+          }, {
+            "item" : "Employment conditions and policies",
+            "count" : 16
+          }, {
+            "item" : "Cllr Jones",
+            "count" : 15
+          }, {
+            "item" : "IT plans ",
+            "count" : 14
+          }, {
+            "item" : "Business rates Information",
+            "count" : 13
+          }, {
+            "item" : "Finance and IT - Computer software for payments",
+            "count" : 12
+          }, {
+            "item" : "Benefits Discretionary Payments and Universal Credit",
+            "count" : 11
+          }, {
+            "item" : "Business rates details",
+            "count" : 10
+          }, {
+            "item" : "HR Temp Staff System Supplier",
+            "count" : 9
+          }, {
+            "item" : "Finance - council services that generate a profit",
+            "count" : 8
+          }, {
+            "item" : "Adult Social Care structure chart as of April 2015",
+            "count" : 7
+          }, {
+            "item" : "parking PCNs",
+            "count" : 6
+          }, {
+            "item" : "Parking contract for parking meters",
+            "count" : 5
+          }, {
+            "item" : "Information about a specific property",
+            "count" : 4
+          }, {
+            "item" : "Business Rate Accounts",
+            "count" : 3
+          }, {
+            "item" : "Apprentices",
+            "count" : 2
+          }, {
+            "item" : "Damage to street furniture",
+            "count" : 1
+          } ],
+          "smallest" : "Adult social care board members"
+        },
+        "format" : {
+          "displayStyle" : "plain",
+          "align" : "left"
+        }
+      }, {
+        "id" : 3946721,
+        "name" : "Date Of Response",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "date_of_response",
+        "position" : 3,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 1756177,
+        "width" : 100,
+        "cachedContents" : {
+          "largest" : "2017-11-09T00:00:00",
+          "non_null" : 149,
+          "null" : 0,
+          "top" : [ {
+            "item" : "2017-08-09T00:00:00",
+            "count" : 20
+          }, {
+            "item" : "2017-08-07T00:00:00",
+            "count" : 19
+          }, {
+            "item" : "2017-08-03T00:00:00",
+            "count" : 18
+          }, {
+            "item" : "2017-08-14T00:00:00",
+            "count" : 17
+          }, {
+            "item" : "2017-08-24T00:00:00",
+            "count" : 16
+          }, {
+            "item" : "2017-08-21T00:00:00",
+            "count" : 15
+          }, {
+            "item" : "2017-08-11T00:00:00",
+            "count" : 14
+          }, {
+            "item" : "2017-08-31T00:00:00",
+            "count" : 13
+          }, {
+            "item" : "2017-09-28T00:00:00",
+            "count" : 12
+          }, {
+            "item" : "2017-09-04T00:00:00",
+            "count" : 11
+          }, {
+            "item" : "2017-09-13T00:00:00",
+            "count" : 10
+          }, {
+            "item" : "2017-09-05T00:00:00",
+            "count" : 9
+          }, {
+            "item" : "2017-09-14T00:00:00",
+            "count" : 8
+          }, {
+            "item" : "2017-09-25T00:00:00",
+            "count" : 7
+          }, {
+            "item" : "2017-10-09T00:00:00",
+            "count" : 6
+          }, {
+            "item" : "2017-10-03T00:00:00",
+            "count" : 5
+          }, {
+            "item" : "2017-10-23T00:00:00",
+            "count" : 4
+          }, {
+            "item" : "2017-10-20T00:00:00",
+            "count" : 3
+          }, {
+            "item" : "2017-10-16T00:00:00",
+            "count" : 2
+          }, {
+            "item" : "2017-11-03T00:00:00",
+            "count" : 1
+          } ],
+          "smallest" : "2017-08-02T00:00:00"
+        },
+        "format" : {
+          "view" : "date_dmy",
+          "align" : "left"
+        }
+      }, {
+        "id" : 3946722,
+        "name" : "Documents",
+        "dataTypeName" : "document",
+        "fieldName" : "documents",
+        "position" : 4,
+        "renderTypeName" : "document",
+        "tableColumnId" : 1756237,
+        "width" : 210,
+        "cachedContents" : {
+          "non_null" : 149,
+          "null" : 0
+        },
+        "format" : { },
+        "subColumnTypes" : [ "content_type", "file_id", "filename", "size" ]
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "UK Open Government Licence v3",
+        "logoUrl" : "images/licenses/ogl.png",
+        "termsLink" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+      },
+      "metadata" : {
+        "jsonQuery" : {
+          "order" : [ {
+            "columnFieldName" : "date_of_response",
+            "ascending" : true
+          } ]
+        },
+        "rdfSubject" : "0",
+        "custom_fields" : {
+          "Point of Contact" : {
+            "Address" : "The Crowndale Centre, 218 Eversholt Street",
+            "Telephone" : "020 7974 4444",
+            "Role Name" : "Open Data Administrator",
+            "Organisation Name" : "London Borough of Camden",
+            "City/Town" : "London",
+            "Postcode" : "NW1 1BD",
+            "Directorate" : "Law and Governance"
+          },
+          "Publication" : {
+            "Dataset Language" : "English",
+            "Frequency of Update" : "Continual"
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rowLabel" : "",
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        }
+      },
+      "owner" : {
+        "id" : "it3r-jdrj",
+        "displayName" : "Open Data Camden",
+        "screenName" : "Open Data Camden"
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 3946721,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "it3r-jdrj",
+        "displayName" : "Open Data Camden",
+        "screenName" : "Open Data Camden"
+      },
+      "tags" : [ "foi" ],
+      "flags" : [ "default", "restorable", "restorePossibleForType" ]
+    }
+  },
+  "data" : [ [ 4, "1409FC24-7231-4F26-84CB-0F196545B0C0", 4, 1503490195, "5436", 1503490305, "5436", null, "21009895", "Memorandums of understanding with the Home Office relating to any immigration issue", "2017-08-09T00:00:00", [ "application/zip; charset=binary", "226c0e1c-3f08-4b56-80c4-ad134a1be88e", "Response 21009895.zip", "146062" ] ]
+, [ 6, "D3698936-B088-450B-8007-2882E21EF417", 6, 1503490524, "5436", 1503490621, "5436", null, "21018840", "Launderettes and planning ", "2017-08-07T00:00:00", [ "application/zip; charset=binary", "8b9fcb05-a4b5-49b5-ad9c-71f0a94b22bd", "Response 21018840.zip", "78024" ] ]
+, [ 7, "F45BE3AD-7B49-4CED-BC71-5DE67D4E9566", 7, 1503490623, "5436", 1503490694, "5436", null, "21021065", " Planning Dept Employees", "2017-08-09T00:00:00", [ "application/zip; charset=binary", "4bb38c05-fe07-4af0-8dfa-c08725a88d88", "Response  21021065.zip", "157540" ] ]
+, [ 8, "940FF2DB-1FA9-4E32-8464-AD0CEF1B8515", 8, 1503490746, "5436", 1503490771, "5436", null, "21011718", "Society of Information Technology Management", "2017-08-04T00:00:00", [ "application/zip; charset=binary", "4cb81149-17ad-4075-9f90-6083653f0357", "RESPONSE 21011718.zip", "19051" ] ]
+, [ 9, "1618CB2A-52F2-4864-B79C-9FA4FBE74B9E", 9, 1503490873, "5436", 1503490893, "5436", null, "21015757", "IT Information", "2017-08-07T00:00:00", [ "application/zip; charset=binary", "d890e24b-0fa2-4e28-928d-5d7376e2ef0e", "RESPONSE  21015757.zip", "13012" ] ]
+, [ 10, "348447C8-3CF2-4A4C-8EEB-DB55F5EAC08F", 10, 1503490941, "5436", 1503490967, "5436", null, "21015312", "NNDR info re specific properties", "2017-08-03T00:00:00", [ "application/zip; charset=binary", "4863dd00-fb31-4dc4-b3d6-32c1263a3156", "RESPONSE 21015312.zip", "15312" ] ]
+, [ 11, "BCC4ED4A-AB9E-47E1-8254-AD534F8918D2", 11, 1503491018, "5436", 1503491047, "5436", null, "21014298", "Domestic Abuse Spending", "2017-08-03T00:00:00", [ "application/zip; charset=binary", "34cbca13-360a-40e2-a114-55e0a31e7c6b", "RESPONSE  21014298.zip", "15022" ] ]
+, [ 12, "47267CAF-B5C3-42BD-AA86-CC96F9213CCA", 12, 1503491104, "5436", 1503491124, "5436", null, "21014083", "Employee and financial info", "2017-08-03T00:00:00", [ "application/zip; charset=binary", "07ec69d2-78f5-477e-ba7a-d13aef709ce4", "RESPONSE 21014083.zip", "14490" ] ]
+, [ 13, "5532C08A-786D-42A3-AD31-507131B8D621", 13, 1503491178, "5436", 1503491206, "5436", null, "21014059", "Street Naming and Numbering Charges", "2017-08-02T00:00:00", [ "application/zip; charset=binary", "ebfd189c-546f-45b5-a0b5-7d17ca7a9a71", "RESPONSE  21014059.zip", "14282" ] ]
+, [ 14, "B6F2E0CB-CBB2-4ACE-B7E5-C543E365A1E0", 14, 1503491249, "5436", 1503491292, "5436", null, "21019494", "Home Education Officers", "2017-08-10T00:00:00", [ "application/zip; charset=binary", "065f2b6a-4a9b-41ca-8ba1-9bc5beb6d991", "RESPONSE 21019494.zip", "82660" ] ]
+, [ 15, "FCC08A60-3563-4B57-A080-9AD8E087B6C8", 15, 1503491358, "5436", 1503491385, "5436", null, "21018867", "Employment of Illegal Immigrants", "2017-08-14T00:00:00", [ "application/zip; charset=binary", "2e92e424-2baf-4733-bed4-a2feee1bde2b", "21018867.zip", "356868" ] ]
+, [ 16, "50B4B939-79A5-43D4-B106-BA16C58E2574", 16, 1503576468, "5437", 1503576538, "5437", null, "21024669", "Noise Complaints", "2017-08-24T00:00:00", [ "application/zip; charset=binary", "c8ef6405-baa3-4722-a445-914cc344293f", "21024669.zip", "212858" ] ]
+, [ 17, "3577717C-896C-4D01-912B-4BE329DFEA65", 17, 1503576742, "5437", 1503576799, "5437", null, "21020473", "Community Assets Disposed", "2017-08-14T00:00:00", [ "application/zip; charset=binary", "bfe0e9cd-abf0-4c82-a905-6ba68a7d73ec", "21020473 - Data.zip", "143771" ] ]
+, [ 19, "0740F0AA-DD2A-40F5-90CA-23BBED8D9EAA", 19, 1503582687, "5436", 1503582711, "5436", null, "21019717", "Chalcotts", "2017-08-14T00:00:00", [ "application/zip; charset=binary", "63268db8-b264-4ee9-ad26-602d35d7f7c5", "Response_ FOI - 21019717.zip", "68894" ] ]
+, [ 20, "0FF20957-5F62-4DA6-A404-2C64EA53C24A", 20, 1503582811, "5436", 1503582883, "5436", null, "21019717", "Chalcotts", "2017-08-17T00:00:00", [ "application/zip; charset=binary", "5cc1ac92-c06b-4756-acec-f9775e4371e0", "Response_ FOI - 21019717.zip", "68894" ] ]
+, [ 21, "AD46DA7D-DD31-4E4E-8085-9BC365F7C182", 21, 1503582986, "5436", 1503583024, "5436", null, "21021769", "Pre-Action Planning Advice", "2017-08-21T00:00:00", [ "application/zip; charset=binary", "a0bbd00b-e711-4a51-8dec-24d54ea37321", "Response_ EIR - 21021769.zip", "112293" ] ]
+, [ 22, "4DDF2DA5-5C00-4230-B2F1-D2CDA0C74085", 22, 1503583090, "5436", 1503583107, "5436", null, "21016534", "Parking Issues", "2017-08-11T00:00:00", [ "application/zip; charset=binary", "ffcbe3d2-86dc-49f2-a04e-ec75eb3e9189", "Response 21016534.zip", "153546" ] ]
+, [ 23, "B66EF63A-B021-4D00-9D5A-D5770DE8744B", 23, 1503583136, "5436", 1503583172, "5436", null, "21016534", "Parking Issues", "2017-08-11T00:00:00", [ "application/zip; charset=binary", "86838f2d-c3e9-4dc0-80ed-3d0ef6955c7d", "Response 21016534.zip", "153546" ] ]
+, [ 24, "80249476-EE75-44D4-B28D-78B75F9A08BB", 24, 1503583210, "5436", 1503583228, "5436", null, "21016472", "Parking Issues", "2017-08-11T00:00:00", [ "application/zip; charset=binary", "0b275c1b-1843-4328-b836-401c49a84bd9", "Response 21016742.zip", "105292" ] ]
+, [ 25, "E22AA174-2280-421F-ADFC-8707A20E6184", 25, 1503583276, "5436", 1503583292, "5436", null, "21017367", "Parking Issues", "2017-08-11T00:00:00", [ "application/zip; charset=binary", "8a84bbe3-daf7-43a8-90aa-9cd65ba5303a", "Response 21017367.zip", "97371" ] ]
+, [ 26, "85819590-BE45-4113-A12E-729185E1BF08", 26, 1503583347, "5436", 1503583408, "5436", null, "21020219", "Cyber Attacks", "2017-08-11T00:00:00", [ "application/zip; charset=binary", "499b892a-f97b-4284-b318-7ffa5ccbc45c", "RESPONSE 21020219.zip", "192956" ] ]
+, [ 27, "9CB429AC-061D-45D1-A9C8-20855AF0341D", 27, 1503583415, "5436", 1503583439, "5436", null, "21019583", "Council Tax and Empty Homes", "2017-08-08T00:00:00", [ "application/zip; charset=binary", "8bc5f9b2-9f5d-488a-a81f-17bdafd3d0f5", "RESPONSE 21019583.zip", "138308" ] ]
+, [ 28, "96D33BC7-0B8B-405B-B6D9-A84430126E7C", 28, 1503583475, "5436", 1503583526, "5436", null, "21017460", "Cleaning Tenders", "2017-08-07T00:00:00", [ "application/zip; charset=binary", "72f9071b-c280-4215-b084-0feeafd73582", "RESPONSE 21017460.zip", "126857" ] ]
+, [ 29, "E666C8F5-C909-4B94-9E27-BE24551F4740", 29, 1503583534, "5436", 1503583556, "5436", null, "21021972", "B and B Housing Benefit", "2017-08-14T00:00:00", [ "application/zip; charset=binary", "dee2dcac-d317-4a1c-b833-3ecdfbc40c6a", "RESPONSE 21021972.zip", "141571" ] ]
+, [ 30, "6F3C3DBD-E806-412A-ACA7-51E12A678721", 30, 1503583587, "5436", 1503583606, "5436", null, "21020473", "Community Assets", "2017-08-14T00:00:00", [ "application/zip; charset=binary", "50f369ce-d974-4fbb-b857-acd8b80ff147", "RESPONSE  21020473.zip", "126194" ] ]
+, [ 31, "7E01337E-F1C9-4328-805C-DFB3E17E0CC0", 31, 1503583886, "5436", 1503583940, "5436", null, "21015241", "Yellow Box Junction PCNs", "2017-08-15T00:00:00", [ "application/zip; charset=binary", "50078aca-5772-42ee-93e0-d661fcc93b9c", "Response 21015241.zip", "85715" ] ]
+, [ 32, "7C31732A-7343-4B95-99D2-01040ECCDBEA", 32, 1503583952, "5436", 1503583997, "5436", null, "21015825", "Moving Traffic PCNs March 2017 onwards", "2017-08-15T00:00:00", [ "application/zip; charset=binary", "bd71e4d4-84c1-450a-94fd-b2a97955ec37", "Response 21015825.zip", "68434" ] ]
+, [ 33, "AF741FD9-AC06-42CE-820E-D61B2311A1EF", 33, 1503584002, "5436", 1503584023, "5436", null, "21019818", "Refuge Spending", "2017-08-21T00:00:00", [ "application/zip; charset=binary", "3d353d98-057d-49ed-9e3d-ec2a9dc98751", "Response_ FOI - 21019818.zip", "147769" ] ]
+, [ 34, "4EFF089C-93E1-4A4F-9EAD-E06C1377346D", 34, 1503584057, "5436", 1503584153, "5436", null, "21021769", "Pre App Planning Advice", "2017-08-21T00:00:00", [ "application/zip; charset=binary", "9a3963da-4bb6-4e82-b41c-fb43bd1aacca", "Response_ EIR - 21021769.zip", "112293" ] ]
+, [ 35, "0F8ED37C-ABCB-4E00-B364-39E1C15D26E8", 35, 1503584171, "5436", 1503584214, "5436", null, "21028530", "Land Leased by Council to Neighbours", "2017-08-23T00:00:00", [ "application/zip; charset=binary", "e6af6e9d-a173-4147-b54e-b2958ee3c7bb", "21028530.zip", "92928" ] ]
+, [ 36, "CC63C709-6015-4A74-8B70-E65D1FA809E2", 36, 1504179306, "5436", 1504179360, "5436", null, "21005383", "Planning Application Swain's Lane", "2017-08-21T00:00:00", [ "application/zip; charset=binary", "36cd9126-0e2f-460b-bfb1-60672cbf5b01", "Response - 21005383.zip", "8075726" ] ]
+, [ 37, "FD877DE8-55B1-476C-B453-780F45C74787", 37, 1504179402, "5436", 1504179435, "5436", null, "21029522", "Right to buy queries", "2017-08-21T00:00:00", [ "application/zip; charset=binary", "51367f11-9884-4c1e-9488-6e5927f191f3", "21019522 - Response.zip", "39625" ] ]
+, [ 39, "E57D67E7-BACA-401F-A357-45F4DDA6D832", 39, 1504179495, "5436", 1504179564, "5436", null, "21002916", "Major works contract MWP03_038", "2017-08-24T00:00:00", [ "application/zip; charset=binary", "04f97515-6661-49fc-a287-41a60d838d72", "21002916 - Response.zip", "1132889" ] ]
+, [ 38, "FAF22C7E-F55B-43A4-B696-4A3FBAA24137", 38, 1504179478, "5436", 1504184220, "5436", null, "21020585", "Flexible working", "2017-08-14T00:00:00", [ "application/zip; charset=binary", "ff5d1d8e-dee0-4c35-9328-f473fffab1c0", "21020585 - Response.zip", "5658438" ] ]
+, [ 40, "8B81C091-1429-462C-9184-B9B39BD510B4", 40, 1504184290, "5436", 1504184316, "5436", null, "21020306", "Residential Care Costs", "2017-08-14T00:00:00", [ "application/zip; charset=binary", "f94cb677-0d73-44af-afc5-b7162a659416", "21020306 - Response.zip", "13482" ] ]
+, [ 41, "793893CE-5BB7-4EFF-B8FC-484BCEBF05ED", 41, 1504184363, "5436", 1504184383, "5436", null, "21028080", "Non-traditional housing types", "2017-08-31T00:00:00", [ "application/zip; charset=binary", "a17ed664-4007-4333-ba7b-cdde15fa5b80", "Response to 21028080.zip", "63871" ] ]
+, [ 42, "D901E21A-C4A1-4E60-8653-84B83AF55612", 42, 1504184529, "5436", 1504184614, "5436", null, "2106096", "Adult social care board members", "2017-08-31T00:00:00", [ "application/zip; charset=binary", "6283aa17-2acd-4f32-bc55-720b5a124f48", "Ressponse to 21026096.zip", "165890" ] ]
+, [ 43, "645827E5-E0A5-4404-A56C-D4127F73EC11", 43, 1506605487, "5436", 1506605733, "5436", null, "21018911", "Children Act Assessments and Data Protection", "2017-08-03T00:00:00", [ "application/zip; charset=binary", "b37941a8-bcf2-45e6-810a-cc1abb83447f", "Response 21018911.zip", "895013" ] ]
+, [ 44, "8834DF7D-FAD0-4169-B200-9D33B9A9E56D", 44, 1506605852, "5436", 1506605888, "5436", null, "21038454", "Community Infrastructure Levy", "2017-09-19T00:00:00", [ "application/zip; charset=binary", "88cbe4f8-e792-4ebe-85b7-4808c1931171", "Response_ EIR - 21038454.zip", "213623" ] ]
+, [ 45, "89322243-740C-4958-9EFB-32410771FF48", 45, 1506605956, "5436", 1506605982, "5436", null, "21048501", "Residential development and affordable rent", "2017-09-28T00:00:00", [ "application/zip; charset=binary", "2f0df2fa-86d2-4774-b38a-5b3f4d2c0a4d", "Response_ EIR - 21048501.zip", "289644" ] ]
+, [ 46, "1E478876-CDF7-4747-9855-13CF38DEF530", 46, 1506606068, "5436", 1506606094, "5436", null, "21019056", "SEND  Tribunals", "2017-08-03T00:00:00", [ "application/zip; charset=binary", "7ac5cd08-7c25-4eee-9ec5-b47d42df10df", "FOI Response 21019056.zip", "85734" ] ]
+, [ 47, "00D410D2-4342-41CB-9AD4-15A3271CE4B6", 47, 1506606194, "5436", 1506606330, "5436", null, "21048762", "Planning Use Category A5", "2017-09-28T00:00:00", [ "application/zip; charset=binary", "89c598dd-be6f-4093-a382-b9e3a2ebce4b", "Response_ EIR - 21048762.zip", "138664" ] ]
+, [ 48, "BD44E9DC-27F3-4FEB-8639-2BE28E5F857F", 48, 1506606309, "5436", 1506606343, "5436", null, "21034532", "Responses to consultation", "2017-09-12T00:00:00", [ "application/zip; charset=binary", "ef021797-40b9-492a-87a8-ff7ed28aced4", "Response_ FOI - 21034532.zip", "77537" ] ]
+, [ 49, "CBD57B50-A737-4AAA-A796-FEE8860989C2", 49, 1506606485, "5436", 1506606516, "5436", null, "21037299", "Staffing - EU and agency workers", "2017-09-15T00:00:00", [ "application/zip; charset=binary", "960a648d-c22f-4a41-a00b-7c8242cce646", "Response_ FOI - 21037299.zip", "1010623" ] ]
+, [ 50, "E6ABB508-27E8-4378-AD9F-C1FDEFC91FC2", 50, 1506606720, "5436", 1506606748, "5436", null, "21041816", "Staffing - enhacement payments", "2017-09-22T00:00:00", [ "application/zip; charset=binary", "893ad1b3-cd74-4a41-a53c-29e60170c434", "Response_ FOI - 21041816.zip", "188794" ] ]
+, [ 51, "03CC2CBE-FAE2-49EC-AE99-8D7EEEFC4BC0", 51, 1506606723, "5436", 1506606824, "5436", null, "21021730", "Schools Class Sizes", "2017-09-22T00:00:00", [ "application/zip; charset=binary", "fa0cfbaf-9312-4f72-ae09-7ddbc6d4133e", "FOI Response 21021730.zip", "80258" ] ]
+, [ 52, "B90B6817-0253-4761-BC88-5BABAA1679C5", 52, 1506606879, "5436", 1506606903, "5436", null, "21023354", "Unacompanied Asylum Seeking Children", "2017-08-24T00:00:00", [ "application/zip; charset=binary", "f9df7ee7-5b9a-4351-90e2-9e5b48a82b67", "FOI Response 21023354.zip", "75857" ] ]
+, [ 53, "BBF4102C-E475-4CB6-A326-9796F4ED7AC0", 53, 1506606985, "5436", 1506607008, "5436", null, "21016748", "Children referred to Channel", "2017-08-03T00:00:00", [ "application/zip; charset=binary", "3d6f0e4c-a74b-4e75-ab37-3ec9aab31385", "Response 21016748.zip", "75563" ] ]
+, [ 54, "CB6BFE47-D3B4-4EB2-AB0B-73B6C86834EA", 54, 1506607068, "5436", 1506607110, "5436", null, "21026960", "Parks Antony Gormley Sculpture", "2017-09-04T00:00:00", [ "application/zip; charset=binary", "05c10bcb-36ef-4388-91bb-4135cf7944fc", "Response 21026960.zip", "98087" ] ]
+, [ 5, "FB293A65-FCAC-4EEB-9C6F-4EBFF16D80EF", 5, 1503490443, "5436", 1507109364, "5436", null, "21019507", "Planning Section 106 agreement to provide affordable housing with London District Housing Association", "2017-08-09T00:00:00", [ "application/zip; charset=binary", "62faae7b-63d6-47bc-a205-db6072e564c9", "Response 21019507.zip", "87693" ] ]
+, [ 55, "1E9C2BF7-5E75-4B4B-9DD3-727D98F08ED1", 55, 1507109571, "5436", 1507109617, "5436", null, "21026752", "SEND data", "2017-09-01T00:00:00", [ "application/zip; charset=binary", "b6001d1b-d290-49c7-b653-a573e2db0796", "FOI Response 21026752.zip", "102838" ] ]
+, [ 56, "0DE6C44B-822D-45EB-BA63-38D8F993A1AD", 56, 1507109808, "5436", 1507109841, "5436", null, "21035151", "Children blank pro forma documents", "2017-09-13T00:00:00", [ "application/zip; charset=binary", "7719d47b-56f0-4baf-bd4d-5a71438d9838", "FOI Response 21035151.zip", "6488340" ] ]
+, [ 57, "AD5BE74F-23AB-406B-9A84-CEA4CFB0FE3E", 57, 1507109813, "5436", 1507109926, "5436", null, "21046650", "Schools spend on agency teachers", "2017-09-21T00:00:00", [ "application/zip; charset=binary", "ea99d9af-2deb-4175-8212-c001cfd50553", "FOI Response 21046650.zip", "86704" ] ]
+, [ 58, "B8DCA983-1FC6-45C5-B632-7205C6E13C3F", 58, 1507112958, "5436", 1507112985, "5436", null, "21017208", "Traded services to schools", "2017-09-20T00:00:00", [ "application/zip; charset=binary", "5da4bb63-3af8-456f-8e34-0de280e3f00c", "FOI Response 21017208.zip", "140693" ] ]
+, [ 59, "341D5A9D-7138-4CDC-9928-150714CA9000", 59, 1507114840, "5436", 1507114873, "5436", null, "21025046", "Staffing - fleet manager and vehicle fleet details", "2017-08-31T00:00:00", [ "application/zip; charset=binary", "336a4383-9505-409f-8df8-e6df4e2a8235", "Response_ FOI - 21025046.zip", "183169" ] ]
+, [ 60, "A4234C8A-4093-4E98-A504-F74E81BDCAC9", 60, 1507114846, "5436", 1507114979, "5436", null, "20995251", "Staffing - planning ", "2017-09-01T00:00:00", [ "application/zip; charset=binary", "fba21fac-cf05-43f5-8d5b-9c9050ab7cdd", "Response_ FOI - 20995251.zip", "417903" ] ]
+, [ 61, "BF784C5F-BCF6-49E8-AC08-EE4D0049C7F9", 61, 1507115040, "5436", 1507115065, "5436", null, "21029031", "Planning - Community Infrastructure Levy", "2017-09-05T00:00:00", [ "application/zip; charset=binary", "d44414ab-fcc6-42c9-8b1e-7782ba4a2cf8", "Response 21029031.zip", "100462" ] ]
+, [ 62, "8252FB40-9FD1-46DB-BBE7-9D010A8BCA5F", 62, 1507115182, "5436", 1507115239, "5436", null, "21030595", "Plannin - s106 agreements", "2017-09-05T00:00:00", [ "application/zip; charset=binary", "9ae829f5-3b8b-48fb-8900-86ed398f1dca", "Response_ EIR - 21030595.zip", "86268" ] ]
+, [ 63, "92BB3218-58DD-4860-91A9-036B145E25E9", 63, 1507900329, "5436", 1507900377, "5436", null, "21029704", "Littering and FPNs", "2017-09-05T00:00:00", [ "application/zip; charset=binary", "13432238-1632-4562-80ab-9498aaa9ae14", "Response 21029704.zip", "104794" ] ]
+, [ 64, "99C9E69A-8315-49A7-92A1-7321D96F1A9E", 64, 1507900447, "5436", 1507900470, "5436", null, "21031654", "Life in UK test", "2017-09-05T00:00:00", [ "application/zip; charset=binary", "5915c89e-4d87-4e1c-97a3-e867cc8807fa", "Response_ FOI - 21031654.zip", "130763" ] ]
+, [ 65, "98EB3D31-7558-4637-91AE-6D16C1000DE1", 65, 1507900545, "5436", 1507900573, "5436", null, "21033597", "Records Retention Policy", "2017-09-11T00:00:00", [ "application/zip; charset=binary", "3e1252cf-10b6-4a92-ac6b-77c1b12b6afd", "Response_ FOI - 21033597.zip", "413476" ] ]
+, [ 66, "509739AB-1915-42D4-AC0A-FDE6F1C1B27C", 66, 1507900632, "5436", 1507900656, "5436", null, "21036662", "School Capacity", "2017-09-13T00:00:00", [ "application/zip; charset=binary", "a91c8a57-8233-4b47-bbb6-60bb76e4d94a", "FOI Response 21036662.zip", "81770" ] ]
+, [ 67, "733B83F2-ECC3-46F0-9122-F66B1EE759CF", 67, 1507900739, "5436", 1507900771, "5436", null, "21036579", "School Admissions Fitzjohns Primary", "2017-09-13T00:00:00", [ "application/zip; charset=binary", "62635fc2-9365-4be2-a1e4-c811c037454a", "FOI Response 21036579.zip", "87084" ] ]
+, [ 68, "C2DF8630-EDEF-4196-BDCC-CAAC4069C96B", 68, 1507900997, "5436", 1507901033, "5436", null, "21015799", "Curnock Street Estate Fire Safety and Fencing", "2017-09-14T00:00:00", [ "application/zip; charset=binary", "96b82763-2b95-4209-9274-181cdd6442e7", "Response_ EIR - 21015799.zip", "4569671" ] ]
+, [ 69, "FB7981B8-57D7-4D07-9400-0DA6D3D31D9A", 69, 1507901104, "5436", 1507901128, "5436", null, "21037420", "Children SEN Information", "2017-09-14T00:00:00", [ "application/zip; charset=binary", "0731492a-36f2-458d-939c-4e9153393f62", "FOI Response 21037420.zip", "188037" ] ]
+, [ 70, "F7A1E242-D251-45AC-B38D-9DE93085EE5B", 70, 1507901227, "5436", 1507901270, "5436", null, "21041166", "Children Education, Fostering and other providers", "2017-09-14T00:00:00", [ "application/zip; charset=binary", "2a197e3c-a0a9-4e99-8e48-f64434e84443", "FOI Response 21041166.zip", "95675" ] ]
+, [ 71, "CE89C410-6540-4CE6-92BA-2F7180C83912", 71, 1507901356, "5436", 1507901382, "5436", null, "21038416", "Schools After school and holiday clubs", "2017-09-18T00:00:00", [ "application/zip; charset=binary", "4ab335ae-a254-4b28-904f-df0fe1b3306b", "FOI Response 21038416.zip", "82130" ] ]
+, [ 72, "3706E4CE-C5EF-4F3E-BF4D-0650E2EA6F30", 72, 1507901464, "5436", 1507901538, "5436", null, "21014993", "Staffing Milegae Allowance Payments", "2017-09-18T00:00:00", [ "application/zip; charset=binary", "6fd44f94-4793-44af-84e2-f8bc75c1d2fd", "Response_ FOI - 21014993.zip", "236217" ] ]
+, [ 73, "81D9638E-D901-43EA-9B7D-A4E85EA657BB", 73, 1507901633, "5436", 1507901674, "5436", null, "21039094", "Planning Application 2016/5358/P", "2017-09-19T00:00:00", [ "application/zip; charset=binary", "789a70ea-272f-4c94-8c7e-a2696ddecf5a", "Response_ EIR - 21039094.zip", "119178" ] ]
+, [ 74, "8CA77103-FCC2-49CE-B7E8-B5A8DC7DDCE0", 74, 1507901752, "5436", 1507901781, "5436", null, "21050346", "Schools Music and Drama Teaching", "2017-09-21T00:00:00", [ "application/zip; charset=binary", "be99b525-5896-4753-91fa-4300ea06fa01", "FOI Response 21050346.zip", "77407" ] ]
+, [ 75, "0AFA5B9C-AEF0-47E4-BC1F-C530F003DB15", 75, 1507902528, "5436", 1507902569, "5436", null, "21043469", "Information Security PSN ITHC testing", "2017-09-25T00:00:00", [ "application/zip; charset=binary", "257315b5-c867-44a2-9df4-8b30bbb5297c", "Response_ FOI - 21043469.zip", "68938" ] ]
+, [ 76, "D3DAC3F0-307B-47DF-A297-5C1FEA9866BA", 76, 1507902635, "5436", 1507902664, "5436", null, "21042522", "Planning Community Infrastructure Levy", "2017-09-25T00:00:00", [ "application/zip; charset=binary", "caa63a59-c606-49a6-b3e3-f98ead6ecdf4", "FOI Response 21042522.zip", "167853" ] ]
+, [ 77, "6D0FBA20-2C6D-4D8F-A57B-F17B778C711D", 77, 1507902750, "5436", 1507902778, "5436", null, "21048681", "Planning Applications Information", "2017-09-26T00:00:00", [ "application/zip; charset=binary", "d075e391-e6a6-4d57-804e-2b2b20498a75", "Response_ EIR - 21048681.zip", "118765" ] ]
+, [ 78, "AC9C3B91-D35C-4334-8B76-7C2032969B3D", 78, 1507902849, "5436", 1507902876, "5436", null, "21050901", "Staffing Honorarium Payments", "2017-09-26T00:00:00", [ "application/zip; charset=binary", "814f58a4-58f5-4a84-ab9e-f63870906c2c", "Response_ FOI - 21050901.zip", "204931" ] ]
+, [ 79, "286E9988-CDB9-413E-A2BB-8669C53D1804", 79, 1507902953, "5436", 1507902983, "5436", null, "21025217", "Public Health Information", "2017-09-27T00:00:00", [ "application/zip; charset=binary", "8d4d8d5f-6ca4-45e6-8119-4f4f7774cf62", "FOI Response 21025217.zip", "109013" ] ]
+, [ 80, "035A91CB-F954-4B63-BC71-6BD480F29049", 80, 1507903544, "5436", 1507903595, "5436", null, "21042419", "Adult Social Care Hartwig Care Ltd Service Specification", "2017-09-25T00:00:00", [ "application/zip; charset=binary", "a2a0e789-db16-49f2-bf2e-965309abe9fc", "FOI Response 21042419.zip", "592087" ] ]
+, [ 81, "CF81AD39-388E-453D-A042-984918BB0812", 81, 1507903634, "5436", 1507903654, "5436", null, "21059904", "NNDR", "2017-10-12T00:00:00", [ "application/zip; charset=binary", "8ba588a6-b37c-4493-ba7b-bbc7c2ea7c8d", "Response_ FOI - 21059904.zip", "536329" ] ]
+, [ 82, "67CBD038-8BF9-4F3B-A162-8100782DA499", 82, 1507903667, "5436", 1507903698, "5436", null, "21053677", "Planning Affordable Housing and Financial Viability", "2017-10-09T00:00:00", [ "application/zip; charset=binary", "065752eb-a354-4528-b419-1724295768e3", "Response_ EIR - 21053677.zip", "211533" ] ]
+, [ 83, "60965801-554B-4FFB-8C52-05CAE2B1F595", 83, 1507904054, "5436", 1507904087, "5436", null, "21051796", "Children Removed from Foster Carers", "2017-09-28T00:00:00", [ "application/zip; charset=binary", "d230523f-d033-437f-8dfb-c85a5b708227", "FOI Response 21051796.zip", "122993" ] ]
+, [ 84, "E35EF712-99E8-487E-BE5E-3817721B03D7", 84, 1507904231, "5436", 1507904257, "5436", null, "21051828", "Schools Afghani Children", "2017-09-28T00:00:00", [ "application/zip; charset=binary", "d15a2a5c-ee8c-4ab2-8527-a2608153afcf", "FOI Response 21051828.zip", "81746" ] ]
+, [ 85, "6330EDFE-50FD-4261-AFEB-FA0243A2D156", 85, 1507904327, "5436", 1507904349, "5436", null, "21052035", "Cycle Training", "2017-09-28T00:00:00", [ "application/zip; charset=binary", "8b9acc03-97a4-46b8-b3de-573da6a67c5f", "FOI Response 21052035.zip", "133409" ] ]
+, [ 86, "D28B1171-A27B-4EF7-B59C-09A1FB633BAC", 86, 1507904417, "5436", 1507904445, "5436", null, "21048746", "Building Control General Information", "2017-09-28T00:00:00", [ "application/zip; charset=binary", "a5943ca4-eebe-4f46-a49c-7281ef51dd07", "Response_ EIR - 21048746.zip", "72966" ] ]
+, [ 87, "D94C5A19-B0C1-45D7-A102-7C1847A2FAB9", 87, 1507904538, "5436", 1507904581, "5436", null, "21048767", "Schools Pupil Referral Unit", "2017-09-28T00:00:00", [ "application/zip; charset=binary", "0b870451-bf81-4b88-81e0-241710376c62", "FOI Response 21048767.zip", "137948" ] ]
+, [ 88, "C6DF92B8-9872-4EB6-81AA-9D5E61E9BAD8", 88, 1507904694, "5436", 1507904828, "5436", null, "21053448", "Schools Agency Spend", "2017-09-28T00:00:00", [ "application/zip; charset=binary", "e1a47981-992c-4218-b1ff-9e3f0da6d8b5", "FOI Response 21057148.zip", "77573" ] ]
+, [ 89, "9B827095-501B-4ADC-B9B8-FDE273D176F0", 89, 1507907642, "5436", 1507907673, "5436", null, "21051003", "Children Historical Child Sexual Abuse", "2017-09-28T00:00:00", [ "application/zip; charset=binary", "e5768cb2-8e16-48d3-a464-c9e90a14ac43", "FOI Response 21051003.zip", "77809" ] ]
+, [ 90, "569CBF83-1045-4D83-8DD1-DAF49A54E2EC", 90, 1507907740, "5436", 1507907767, "5436", null, "21028274", "Schools Exclusions", "2017-08-06T00:00:00", [ "application/zip; charset=binary", "273853b4-82c4-456a-83f8-3af100ecf865", "Response 21028274.zip", "95066" ] ]
+, [ 91, "B7A7E075-C03E-4FE4-81A0-8A7D33506AB9", 91, 1507907879, "5436", 1507907989, "5436", null, "21052124", "Customer Experience Feedback", "2017-09-29T00:00:00", [ "application/zip; charset=binary", "2e29dabb-cc2d-4025-8d34-01bcde937b28", "Response_ FOI - 21052124.zip", "125714" ] ]
+, [ 92, "A59979BF-15FA-4E25-9B47-3B2E126FBDC8", 92, 1507908055, "5436", 1507908088, "5436", null, "21053474", "Children Looked After Children Vietnamese", "2017-09-29T00:00:00", [ "application/zip; charset=binary", "672805a5-eb52-4845-b57e-14cc3699f85e", "FOI Response 21053474.zip", "76659" ] ]
+, [ 93, "993A4009-6301-4685-8D85-4C9683D16087", 93, 1507908145, "5436", 1507908175, "5436", null, "21053568", "Planning Pre Application Advice 215 Haverstock Hill", "2017-10-03T00:00:00", [ "application/zip; charset=binary", "bd606f87-271a-4c1e-b7c8-3ed8e3ec73bf", "Response_ EIR - 21053568.zip", "68869" ] ]
+, [ 94, "76786FF9-67C0-44E8-B7B5-991134B5BB1C", 94, 1507908610, "5436", 1507908638, "5436", null, "21054736", "Planning Template s106 agreement", "2017-10-03T00:00:00", [ "application/zip; charset=binary", "17dc9e6d-9634-4ac2-a17e-24359c5b3b98", "Response_ EIR - 21054736.zip", "68707" ] ]
+, [ 95, "ECFE1EC0-374B-4232-B5AE-211427325D68", 95, 1507908685, "5436", 1507908709, "5436", null, "21028274", "School Exclusions", "2017-08-06T00:00:00", [ "application/zip; charset=binary", "ca7e7c27-1f1e-4bc3-93bc-f1529d5e79c3", "FOI Response 21028274.zip", "95072" ] ]
+, [ 96, "B71DA534-931A-49E0-A5E3-F1B94875005F", 96, 1507908773, "5436", 1507908800, "5436", null, "21034282", "Children Adoption Support Fund", "2017-09-04T00:00:00", [ "application/zip; charset=binary", "fa84e713-1097-46c0-851f-a6cd33c30b16", "FOI Response 21034282.zip", "174859" ] ]
+, [ 97, "1277F776-14BE-4478-BC2A-16DDA4404E05", 97, 1507908856, "5436", 1507908882, "5436", null, "21041220", "Children Abductions out of country", "2017-09-04T00:00:00", [ "application/zip; charset=binary", "d87319f0-bc1f-469a-a0d3-261c494bef58", "FOI Response 21041220.zip", "76210" ] ]
+, [ 98, "35DD86DD-FFF6-4D6B-94E1-657E30E3D7BE", 98, 1507908941, "5436", 1507908963, "5436", null, "21051937", "Refurbishment Contracts", "2017-10-03T00:00:00", [ "application/zip; charset=binary", "673dc697-0507-4430-b56d-701605868622", "Response_ FOI - 21051937.zip", "71876" ] ]
+, [ 99, "E29B0DE5-73FB-4B0D-9240-A9365061ADB2", 99, 1507909043, "5436", 1507909080, "5436", null, "21051937", "Planning Application 2017/2739/P", "2017-10-05T00:00:00", [ "application/zip; charset=binary", "c425dea6-8205-4bcc-834b-36d488a3bc36", "Response_ EIR - 21053492.zip", "446808" ] ]
+, [ 100, "2C7AF9A3-F2B3-4B6D-8A4A-4D8806A16667", 100, 1507909282, "5436", 1507909300, "5436", null, "21052877", "CCTV", "2017-10-05T00:00:00", [ "application/zip; charset=binary", "00a5c0e5-d7b2-485b-b6d9-3964a4f8dc7a", "Response_ FOI - 21052877.zip", "119511" ] ]
+, [ 101, "C2C072EB-BF50-4C6B-BC93-35EE6907EC0F", 101, 1507909404, "5436", 1507909424, "5436", null, "21059565", "Finance Cost Codes", "2017-10-09T00:00:00", [ "application/zip; charset=binary", "3edf1759-72f3-417d-9953-a351333067de", "Response_ FOI - 21059565.zip", "114892" ] ]
+, [ 102, "AAF23E3E-8E2E-4497-98F5-4048857D52F8", 102, 1507909466, "5436", 1507909487, "5436", null, "21059699", "Finance Draft Budget", "2017-10-09T00:00:00", [ "application/zip; charset=binary", "75d09afe-10bb-451e-8048-ea06505e97ca", "Response_ FOI - 21059699.zip", "114909" ] ]
+, [ 103, "07317C2F-0909-489D-8779-BB1886239D09", 103, 1507909544, "5436", 1507909568, "5436", null, "21056053", "Planning Staffing Levels", "2017-10-03T00:00:00", [ "application/zip; charset=binary", "d3d005ed-1f2d-4a74-8279-578cf1dd2e3d", "Response_ FOI - 21056053.zip", "157418" ] ]
+, [ 104, "6D01B051-BA0C-4052-97CD-00B161DE3D0B", 104, 1507909618, "5436", 1507909646, "5436", null, "21038985", "Finance Contingency Fund", "2017-10-10T00:00:00", [ "application/zip; charset=binary", "acf80680-def2-492a-818a-50dd2a0e6ca7", "RESPONSE - 21038985.zip", "125338" ] ]
+, [ 105, "2D06DFF2-944A-4FC5-8BFA-1975375F5B45", 105, 1507909691, "5436", 1507909726, "5436", null, "21064438", "Information Governance and Data Protection", "2017-10-12T00:00:00", [ "application/zip; charset=binary", "7f284d2d-61c7-401a-85ee-eedd6e9ceca1", "Response_ FOI - 21064438.zip", "84628" ] ]
+, [ 106, "110E1E3D-55BF-4EC7-82C5-2502445C88C0", 106, 1509116023, "5436", 1509116060, "5436", null, "FOI0008", "Data Protection and FOI statistics", "2017-10-27T00:00:00", [ "application/zip; charset=binary", "70862b5b-791e-4d86-b047-71fcfb288cf5", "Response_ FOI -  FOI0008.zip", "105968" ] ]
+, [ 107, "A77DF918-D968-49F0-A91D-4A8AB66F8CAC", 107, 1509116145, "5436", 1509116170, "5436", null, "FS0695139", "School Building Liddell Road", "2017-10-17T00:00:00", [ "application/zip; charset=binary", "0ec55051-1f27-471c-841e-cb8266beaae5", "Response FS50695139.zip", "155366" ] ]
+, [ 108, "7C32CF2B-1CDD-4384-8E56-982AAA7C8E24", 108, 1509116240, "5436", 1509116264, "5436", null, "21064494", "Community Investment Plan", "2017-10-18T00:00:00", [ "application/zip; charset=binary", "b8ec55e9-5113-43b6-900a-6862e9227cec", "Response 21064494 (2).zip", "208407" ] ]
+, [ 109, "97127A7A-F811-460E-936C-24543F18BDCA", 109, 1509116344, "5436", 1509116369, "5436", null, "FOI0022", "Staff Parking Facilities", "2017-10-26T00:00:00", [ "application/zip; charset=binary", "9d7fe527-d73c-4ed7-9d94-fc9956421ad1", "Response_ FOI - FOI0022.zip", "362628" ] ]
+, [ 110, "7CF9A30D-46A5-4A30-A639-EF766C7D9D47", 110, 1509116433, "5436", 1509116450, "5436", null, "21067227", "Mail and Postage", "2017-10-24T00:00:00", [ "application/zip; charset=binary", "018d9e01-b79d-4e58-bcb3-1963171dc5ad", "Response_ FOI - 21067227.zip", "74596" ] ]
+, [ 111, "1324C0EE-D390-4385-8AF9-40DF9035734D", 111, 1509116582, "5436", 1509116600, "5436", null, "21069016", "Councillor Jones", "2017-10-23T00:00:00", [ "application/zip; charset=binary", "d2f71bcd-5539-4713-a45e-13527917d919", "Response 21069016.zip", "95814" ] ]
+, [ 112, "453D61BF-F8CF-4A6B-8DE6-B124D915D16C", 112, 1509116766, "5436", 1509116807, "5436", null, "21055705", "NNDR Credits", "2017-09-28T00:00:00", [ "application/zip; charset=binary", "8e5056d9-1ed1-4406-bc08-1ce69da12e7f", "Response_ FOI -  21055705.zip", "237515" ] ]
+, [ 113, "5A783A23-19AA-4A51-83CD-4ACAC75F0F80", 113, 1509116857, "5436", 1509116877, "5436", null, "FOI0006", "Freedom of Information", "2017-10-23T00:00:00", [ "application/zip; charset=binary", "ac8234a6-97c1-47c5-a18c-269b6dfeb4ae", "Response_ FOI -  FOI0006.zip", "71752" ] ]
+, [ 114, "1872C3DC-2CDC-4AC2-81C8-DEDE268CD907", 114, 1509116926, "5436", 1509116946, "5436", null, "FOI0007", "NNDR Gordon Street", "2017-10-23T00:00:00", [ "application/zip; charset=binary", "3bb45193-4566-4748-b271-cb781a63fe2b", "Response_ FOI -  FOI0007.zip", "84197" ] ]
+, [ 115, "89D2F40F-7A4D-4C93-8CE7-3BD140C282B9", 115, 1509116997, "5436", 1509117018, "5436", null, "21067201", "PCNs Pratt Street", "2017-10-20T00:00:00", [ "application/zip; charset=binary", "19bf3671-4cd1-4318-9132-796d2461f356", "Response_ FOI - 21067201.zip", "156057" ] ]
+, [ 116, "9B534D65-6838-4015-8493-59507ED45365", 116, 1509117068, "5436", 1509117091, "5436", null, "21067089", "Public WC Camden Road", "2017-10-23T00:00:00", [ "application/zip; charset=binary", "0cda5d31-d772-4ea1-bede-c98c3ca74886", "Response_ FOI -  21067089.zip", "91197" ] ]
+, [ 117, "08878906-C3D8-4E2B-8090-2A228DA4D464", 117, 1509117161, "5436", 1509117190, "5436", null, "21067024", "Dalby Stret and Traveller' Site", "2017-10-23T00:00:00", [ "application/zip; charset=binary", "7e2cb054-c9a2-4238-949c-16f88732298b", "Response_ FOI - 21067024.zip", "141932" ] ]
+, [ 118, "85E0CC96-7E8C-4368-9569-EB969D37263F", 118, 1509117312, "5436", 1509117346, "5436", null, "21065603", "NNDR Council Tax Job Description", "2017-10-20T00:00:00", [ "application/zip; charset=binary", "802084c6-f607-47d7-a534-eb185855ae82", "Response_ FOI - 21065603.zip", "563257" ] ]
+, [ 119, "BE15F801-399B-45BA-8B8F-5B8A19779B9F", 119, 1509117389, "5436", 1509117414, "5436", null, "21054866", "Spending on social workers", "2017-10-19T00:00:00", [ "application/zip; charset=binary", "e896772f-ffbe-4088-be50-a3c2b4348da8", "Response_ FOI - 21054866.zip", "1254547" ] ]
+, [ 120, "25299BDC-56D1-40D6-A034-2E4D89C2DAF4", 120, 1509117464, "5436", 1509117492, "5436", null, "21062150", "Service Charges to tenanats for water", "2017-10-16T00:00:00", [ "application/zip; charset=binary", "8d2a3d03-2880-49b6-b479-c1947344556c", "Response_ FOI - 21062150.zip", "831665" ] ]
+, [ 121, "70BC151F-9328-4950-B291-177709C67356", 121, 1509117536, "5436", 1509117562, "5436", null, "21062234", "Policy on e-cigs and vaping", "2017-10-16T00:00:00", [ "application/zip; charset=binary", "2254797d-d08f-4c9d-b92b-7dbb72d2ff45", "Response_ FOI - 21062234.zip", "121719" ] ]
+, [ 122, "6BF59E8D-ACA7-4A46-B1F4-1F115857B170", 122, 1509117658, "5436", 1509117680, "5436", null, "21064785", "NNDR and Charities", "2017-10-16T00:00:00", [ "application/zip; charset=binary", "3f335efb-0e1a-4192-a3c1-c9417982182f", "Response_ FOI - 21064785.zip", "69938" ] ]
+, [ 123, "1C09C983-3681-47CB-B0CC-68E58CFBA82F", 123, 1509117749, "5436", 1509117775, "5436", null, "21057306", "Dormer Windows and complaints about a staff member", "2017-10-03T00:00:00", [ "application/zip; charset=binary", "6b592eeb-9a93-484c-a85d-66c36c2bfc24", "Response_ FOI&EIR - 21057306_Redacted.zip", "72426" ] ]
+, [ 124, "CFD8A698-F658-4131-B750-214AFE5AF319", 124, 1509117829, "5436", 1509117850, "5436", null, "FOI0021", "New NNDR", "2017-10-23T00:00:00", [ "application/zip; charset=binary", "1582b1f6-e296-4db4-8060-f450920a91ec", "Response_ FOI -  FOI0021.zip", "432324" ] ]
+, [ 125, "BE47FF0A-E62B-4CD5-A7EC-0ED02B3E05F8", 125, 1509725082, "5436", 1509725113, "5436", null, "FOI0043", "Cyber Security", "2017-11-03T00:00:00", [ "application/zip; charset=binary", "152747ee-6999-47f2-9949-548a7b3680c7", "Response_ FOI - FOI0043.zip", "525454" ] ]
+, [ 126, "BA5E5BD6-BCDA-40BF-942D-A4A6918F41CB", 126, 1509725160, "5436", 1509725186, "5436", null, "FOI0042", "IT service management", "2017-11-03T00:00:00", [ "application/zip; charset=binary", "7c4fe0bf-be4a-4153-9936-a6cb7c925e1e", "Response_ FOI - FOI0042.zip", "91692" ] ]
+, [ 127, "C9BA18B0-8CD5-4759-8DEB-9A150FD376D7", 127, 1509725265, "5436", 1509725288, "5436", null, "FOI0024", "Business Rates", "2017-10-30T00:00:00", [ "application/zip; charset=binary", "88641b3d-ebfb-48f6-97dd-8bc28b96cb10", "Response_ FOI - FOI0024.zip", "2011897" ] ]
+, [ 128, "2A7A4425-57C1-44B3-AF51-3A57060D576A", 128, 1509725326, "5436", 1509725346, "5436", null, "21052104", "Business Rates", "2017-10-23T00:00:00", [ "application/zip; charset=binary", "11420a93-5e53-4710-ba7f-f30b3520e740", "Response_ FOI -  21052104.zip", "170437" ] ]
+, [ 129, "5F1E351B-CDC8-4298-8109-C126970B8221", 129, 1509725381, "5436", 1509725403, "5436", null, "21064703", "HR Apprentices and Pay Rates", "2017-10-23T00:00:00", [ "application/zip; charset=binary", "17576f4e-8c46-4b71-a914-475b585fd4de", "Response_ FOI - 21064703.zip", "510887" ] ]
+, [ 130, "D34B4D74-346D-4F56-863A-1D88A1FAD5F2", 130, 1509725453, "5436", 1509725485, "5436", null, "21066958", "Parking appeals", "2017-10-30T00:00:00", [ "application/zip; charset=binary", "e2f84cad-3713-410f-aa15-83e6a231deb2", "Response_ FOI -  21066958.zip", "73582" ] ]
+, [ 131, "7C03D0CF-3710-4B2F-AAA3-CA3083DB13DD", 131, 1509725521, "5436", 1509725546, "5436", null, "FOI0036", "IT Service", "2017-10-30T00:00:00", [ "application/zip; charset=binary", "f17f2e66-ccbd-4c4a-836f-95665da55e63", "Response_ FOI - FOI0036.zip", "71619" ] ]
+, [ 132, "C8AC5916-284C-4856-9DB5-1753F900EE06", 132, 1509725639, "5436", 1509725663, "5436", null, "FOI0020", "Employment conditions and policies", "2017-10-30T00:00:00", [ "application/zip; charset=binary", "8bfded09-dea6-4c2c-a004-fcbb3cb814d0", "Response_ FOI - FOI0020.zip", "1366843" ] ]
+, [ 133, "6A4BE592-FB34-4F78-BE36-A7FA50383870", 133, 1509726356, "5436", 1509726371, "5436", null, "21069016", "Cllr Jones", "2017-10-23T00:00:00", [ "application/zip; charset=binary", "21819391-c5d0-4aea-a43c-8b18ba305fed", "Response_ FOI - 21069016 - revision.zip", "91649" ] ]
+, [ 134, "95AE1F52-A4DB-4E35-82CE-19A83058E294", 134, 1509958956, "5436", 1509958973, "5436", null, "FOI0005", "IT plans ", "2017-10-30T00:00:00", [ "application/zip; charset=binary", "bf48fb71-fa2a-49c4-aa77-699e0003ceba", "Response_ FOI - FOI0005.zip", "128967" ] ]
+, [ 135, "32CC3A15-48C9-4ABB-A8A6-3909647D0042", 135, 1509959010, "5436", 1509959028, "5436", null, "FOI0027", "Business rates Information", "2017-10-31T00:00:00", [ "application/zip; charset=binary", "6e5a59fe-ebc2-4367-92bb-bffd143b597b", "Response_ FOI - FOI0027.zip", "650192" ] ]
+, [ 136, "CB7044D2-0263-4D76-A10D-038601C0618A", 136, 1509959073, "5436", 1509959100, "5436", null, "FOI0038", "Finance and IT - Computer software for payments", "2017-10-31T00:00:00", [ "application/zip; charset=binary", "c248562c-34b2-4169-881c-d7ea457cc965", "Response_ FOI - FOI0038.zip", "72056" ] ]
+, [ 137, "3BBC8EA6-67F9-4FC5-A10A-54D316F03874", 137, 1509959135, "5436", 1509959159, "5436", null, "FOI10073", "Benefits Discretionary Payments and Universal Credit", "2017-10-30T00:00:00", [ "application/zip; charset=binary", "6b5d7b99-3929-4354-9eb3-0959c1db4345", "Response_ FOI - FOI10073.zip", "77904" ] ]
+, [ 138, "E772A47F-4915-48FB-9572-B8FAE703A19A", 138, 1509959218, "5436", 1509959235, "5436", null, "21067131", "Business rates details", "2017-10-20T00:00:00", [ "application/zip; charset=binary", "ebc163b7-5b24-4676-9889-5bee2efcbe10", "Response_ FOI - 21067131.zip", "214205" ] ]
+, [ 139, "FB5CEB57-9100-471A-BB7A-859ADFC329F9", 139, 1509959294, "5436", 1509959325, "5436", null, "21062196", "HR Temp Staff System Supplier", "2017-10-16T00:00:00", [ "application/zip; charset=binary", "79dda5e2-af08-4289-b98a-3862ea874df0", "Response_ FOI - 21062196.zip", "233853" ] ]
+, [ 140, "1BE24B92-AB3B-44D3-ABB3-6E238B1BCE99", 140, 1509959355, "5436", 1509959387, "5436", null, "FOI00012", "Cllr Jones", "2017-10-31T00:00:00", [ "application/zip; charset=binary", "162caa22-b825-4e4d-9369-7f0d4492fb7f", "Response_ FOI - FOI00012.zip", "72699" ] ]
+, [ 141, "36953228-9044-4EB2-A5DE-3C02B0D2261B", 141, 1509959426, "5436", 1509959446, "5436", null, "21055643", "Finance - council services that generate a profit", "2017-11-02T00:00:00", [ "application/zip; charset=binary", "2cea9bee-71cc-49d8-8227-4ba4dad52658", "Response_ FOI - 21055643.zip", "74574" ] ]
+, [ 142, "6880268B-82E2-4D6B-9A23-DD8B842D92C5", 142, 1509959478, "5436", 1509959501, "5436", null, "FOI0001", "Adult Social Care structure chart as of April 2015", "2017-11-02T00:00:00", [ "application/zip; charset=binary", "4f342382-8ae4-4694-a12f-bcb1552f4b94", "Response_ FOI - FOI0001.zip", "77429" ] ]
+, [ 143, "9FD7FA64-1610-4447-94C6-BFC96B0CED33", 143, 1509959550, "5436", 1509959563, "5436", null, "FOI0003", "parking PCNs", "2017-11-02T00:00:00", [ "application/zip; charset=binary", "56910ff3-17b8-40d5-a8b5-66ca910aa828", "Response_ FOI - FOI0003.zip", "75597" ] ]
+, [ 144, "017E869D-1717-433B-8955-2765ED70790A", 144, 1509959611, "5436", 1509959637, "5436", null, "FOI0041", "Parking contract for parking meters", "2017-11-03T00:00:00", [ "application/zip; charset=binary", "29d0373e-002d-4780-acb9-8800cfc98f8d", "Response_ FOI - FOI0041.zip", "70258" ] ]
+, [ 145, "BE801D5F-91C9-4E3B-9F7F-16271E316450", 145, 1509959689, "5436", 1509959715, "5436", null, "FOI0044", "Information about a specific property", "2017-11-02T00:00:00", [ "application/zip; charset=binary", "c3ebc5df-28a2-456f-b59a-fa9f1fedbfe3", "Response_ FOI - FOI0044.zip", "122888" ] ]
+, [ 146, "F45852F1-64BE-4EF7-A25B-4F0AAFFF2B1B", 146, 1509959748, "5436", 1509959769, "5436", null, "FOI0039", "Business Rate Accounts", "2017-11-03T00:00:00", [ "application/zip; charset=binary", "9e2bd1a7-268d-4876-83fc-bc47a94839ae", "Response_ FOI - FOI0039.zip", "214791" ] ]
+, [ 147, "8F88737D-DB27-4947-AEBF-BF6AB6B2FBC9", 147, 1509959752, "5436", 1510245896, "5436", null, "FOI10051", "Apprentices", "2017-11-07T00:00:00", [ "application/zip; charset=binary", "c1af092a-db8f-4021-8c5b-0ef5acf717e4", "Response_FOI - FOI10051.zip", "725547" ] ]
+, [ 148, "75804A70-477D-41A0-BE1E-2659B453DF83", 148, 1510245931, "5436", 1510245965, "5436", null, "21057251", "Damage to street furniture", "2017-11-06T00:00:00", [ "application/zip; charset=binary", "8691a21f-3120-40ba-aac7-c1309bfa9e62", "Response_FOI - 21057251.zip", "71210" ] ]
+, [ 149, "A3B82B1A-B119-4A8C-BB06-A5C919E8C007", 149, 1510246005, "5436", 1510246023, "5436", null, "FOI10057", "Business rates", "2017-11-06T00:00:00", [ "application/zip; charset=binary", "4b4b3979-b70a-48f2-8c26-9fad249407d2", "Response_FOI - FOI10057.zip", "132950" ] ]
+, [ 150, "89FCBE82-B1B1-453A-88DE-94007D6431F0", 150, 1510246074, "5436", 1510246106, "5436", null, "FOI10056", "Spend on agency staff", "2017-11-07T00:00:00", [ "application/zip; charset=binary", "9cc7d2d7-6094-450b-be78-c03edbf619e0", "FOI Response - FOI10056.zip", "76761" ] ]
+, [ 151, "23AB1358-81F3-4542-8097-7FF9C1BAD8AF", 151, 1510246146, "5436", 1510246173, "5436", null, "21051917", "Public Space Protection Orders", "2017-11-09T00:00:00", [ "application/zip; charset=binary", "d752e2eb-c0bf-4d4d-8444-7b1860fd2765", "Response 21051917.zip", "123842" ] ]
+, [ 152, "E64F2E18-EBCF-4646-8C89-A59FB739B335", 152, 1510246232, "5436", 1510246260, "5436", null, "FOI10060", "HR related vexatious request", "2017-11-06T00:00:00", [ "application/zip; charset=binary", "640f86c4-0f89-4389-acef-6bcdbcee287f", "Response_FOI - FOI10060.zip", "86585" ] ]
+, [ 153, "85E32532-1E48-44EC-8724-B287BD228005", 153, 1510246362, "5436", 1510246381, "5436", null, "FOI10064", "HR Pay for cleaners", "2017-11-09T00:00:00", [ "application/zip; charset=binary", "b2185680-943c-4be8-b32c-779bf4f36ffc", "Response_FOI - FOI10064.zip", "76908" ] ]
+ ]
+}

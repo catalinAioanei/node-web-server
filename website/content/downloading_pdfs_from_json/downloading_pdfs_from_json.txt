@@ -1,0 +1,2 @@
+parseJson.py is used to extract the download links for the zip files. This is stored in a urls.txt file.
+The pdf_downloader.sh script is used to fetch and extract all the zips from the links in the urls.txt file.
