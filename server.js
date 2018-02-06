@@ -20,11 +20,11 @@ app.use((req, res, next)=>{
   next();
 });
 
-// app.use((req,res,next) => {
-//   res.render('maintenance.hbs');
-// });
+app.use((req,res,next) => {
+  res.render('maintenance.hbs');
+});
 
-//app.use(express.static(__dirname +'/website'));
+app.use(express.static(__dirname +'/website'));
 //-------------------------------------------------------
 
 hbs.registerHelper('getCurrentYear', ()=>{
@@ -38,12 +38,12 @@ app.get('/', (req, res)=> {
   });
 });
 
-// app.get('/maintenance', (req,res)=>{
-//   res.render('maintenance.hbs',{
-//     pageTitle : 'Maintenance Page',
-//     currentYear: new Date().getFullYear()
-//   });
-// });
+app.get('/maintenance', (req,res)=>{
+  res.render('maintenance.hbs',{
+    pageTitle : 'Maintenance Page',
+    currentYear: new Date().getFullYear()
+  });
+});
 
 app.get('/about', (req,res)=>{
   res.render('about.hbs',{
